@@ -1,0 +1,9 @@
+A
+B
+C
+<<<<<<< HEAD
+new
+=======
+D
+E
+>>>>>>> ad154e8d5984c4adc229fe8bdeea0a00cbe30459
